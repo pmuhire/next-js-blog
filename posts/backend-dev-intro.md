@@ -18,7 +18,7 @@ Here’s what many back-end developers do on a day-to-day basis:
 1. **Build and maintain websites:** A back-end developer’s main responsibility is to use various tools, frameworks, and languages to determine how best to develop intuitive, user-friendly prototypes and turn them into websites. This requires an understanding of cross-platform functionality and compatibility.
 2. **Write high-quality code:** To produce sustainable web applications, developers must write clean and easily maintainable code.
 
-3. **Perform quality assurance (QA) testing:**Create and oversee testing schedules to optimize user interface and experience, ensuring optimal display on various browsers and devices.
+3. **Perform quality assurance (QA) testing:** Create and oversee testing schedules to optimize user interface and experience, ensuring optimal display on various browsers and devices.
 
 4. **Assess efficiency and speed:** Once a website is up and running, and during updates and edits, developers need to assess its performance and scalabilit4. y, adjusting code as necessary.
 
