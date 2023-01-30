@@ -7,7 +7,7 @@ import Image from 'next/image';
 export default function Layout({children,home}) {
   return (
     <div className={styles.container}>
-      <Head home>
+      <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
