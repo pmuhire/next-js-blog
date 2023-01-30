@@ -49,7 +49,7 @@ Knowledge of web services or API is also important for full stack developers. Kn
 ## What we will cover in these series.
 
 
-### ** Internet**
+### **Internet**
 1. How internet works.
 2. What is an HTTP?
 3. Browsers and how they work.
