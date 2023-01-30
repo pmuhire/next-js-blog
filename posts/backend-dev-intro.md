@@ -31,7 +31,7 @@ Here’s what many back-end developers do on a day-to-day basis:
 1. Web development languages
 2. Database and cache
 3. Server
-4.  API (REST & SOAP)
+4. API (REST & SOAP)
 
 
 **Web Development Languages:**
@@ -41,9 +41,7 @@ Backend engineer should know at least one server-side or Backend programming lan
 Knowledge of various DBMS technology is one of the important Backend developer skills. MySQL, MongoDB, Oracle, SQLServer, Redis are widely used for this purpose. Knowledge of caching mechanisms like varnish, Memcached, Redis is a plus.
 
 **Server:**
-Exposure to handling Apache, Nginx, IIS servers, Microsoft IIS
-
-is desirable. A good background in Linux helps tremendously in administering servers.
+Exposure to handling Apache, Nginx, IIS servers, Microsoft IIS is desirable. A good background in Linux helps tremendously in administering servers.
 
 **API (REST & SOAP):**
 Knowledge of web services or API is also important for full stack developers. Knowledge of creations and consumption of REST and SOAP services is desirable.
@@ -60,4 +58,5 @@ Knowledge of web services or API is also important for full stack developers. Kn
 6. What is hosting.
 
 After the introduction above we will start diving deep into node.js and express following most of the concepts in the roadmap below.
-[nodejs-1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666700759819/ATVe8x8JK.jpg)
+
+[Roadmap](https://cdn.hashnode.com/res/hashnode/image/upload/v1666700759819/ATVe8x8JK.jpg)
