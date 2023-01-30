@@ -1,6 +1,6 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: 'What is an API and how does it work'
+date: '2022-09-01'
 ---
 
 # What is an API and how does it work?
@@ -15,7 +15,7 @@ API stands for “Application Programming Interface.” An API is a software int
 
 APIs are the little pieces of code that make it possible for digital devices, software applications, and data servers to talk with each other, and they’re the essential backbone of so many services we now rely on.
 
-## How do APIs work?##
+## How do APIs work?
 
 APIs work by sharing data and information between applications, systems, and devices making it possible for these things to talk with each other.
 
@@ -38,7 +38,7 @@ REST, or “representational state transfer,” is a type of software design tha
 
 1. **URI** (uniform resource identifier, which is the URL address, also known as an “endpoint”)
 2. **HTTP method** (most commonly either GET or POST)
-3. **Headers **(which include authentication tokens, define the data format of the response, impose rate limits, and perform other administrative tasks)
+3. **Headers**(which include authentication tokens, define the data format of the response, impose rate limits, and perform other administrative tasks)
 4. **Body** (the actual part of the request)
 
 ## Frequently Asked Questions
