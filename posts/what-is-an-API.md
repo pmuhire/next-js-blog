@@ -1,3 +1,8 @@
+---
+title: 'Two Forms of Pre-rendering'
+date: '2020-01-01'
+---
+
 # What is an API and how does it work?
 
 Software development has numerous technologies and complex concepts. API is the one that goes hand in hand with engineers during their work. This concept is something that a lot of near-technical people have heard of but don’t understand its meaning. 
