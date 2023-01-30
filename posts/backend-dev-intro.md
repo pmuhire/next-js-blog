@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to backend development'
-date: '2022-09-28'
+date: '2022-10-25'
 ---
 # **What is backend development?**
 **Back-end development** means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data.
@@ -60,5 +60,4 @@ Knowledge of web services or API is also important for full stack developers. Kn
 6. What is hosting.
 
 After the introduction above we will start diving deep into node.js and express following most of the concepts in the roadmap below.
-
-![nodejs-1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666700759819/ATVe8x8JK.jpg align="left")
+[nodejs-1.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1666700759819/ATVe8x8JK.jpg)
