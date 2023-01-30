@@ -20,12 +20,6 @@ export default function Home({allPostsData}) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-//       <section className={utilStyles.headingMd}>
-//         <p>
-//         Hello, my name is Muhire Patrick
-//           I'm a software engineer based in Kigali, Rwanda specializing in modular systems, interface design and frontend web development.
-//         </p>
-//       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
