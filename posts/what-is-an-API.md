@@ -1,6 +1,6 @@
 ---
 title: 'What is an API and how does it work'
-date: '2022-09-01'
+date: '2022-09-28'
 ---
 
 # What is an API and how does it work?
